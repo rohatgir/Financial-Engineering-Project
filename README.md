@@ -1,5 +1,5 @@
 # Financial-Engineering-Project
-Course: APS502 Financial Engineering - University of Toronto
+Course: APS502 Financial Engineering - University of Toronto\n
 Date: Jan 2017 - Apr 2017
 
 The following code accomplishes two tasks.
