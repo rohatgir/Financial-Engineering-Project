@@ -1,4 +1,6 @@
 # Financial-Engineering-Project
+Course: APS502 Financial Engineering - University of Toronto.
+Date: Jan 2017 - Apr 2017
 
 The following code accomplishes two tasks.
 1. Find optiminal investment portifolio containing only bonds of various durations.
