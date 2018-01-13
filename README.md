@@ -1,4 +1,4 @@
-# Financial-Engineering-Project
+# Financial Engineering Project
 Course: APS502 Financial Engineering - University of Toronto
 
 Date: Jan 2017 - Apr 2017
